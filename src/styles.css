@@ -1,0 +1,17 @@
+body {
+    background-color: #f7f9fb;
+  }
+  
+  h1 {
+    color: #343a40;
+  }
+  
+  .poem-card {
+    margin-bottom: 1.5rem;
+  }
+  
+  .poem-title {
+    color: #007bff;
+    text-decoration: underline;
+  }
+  
